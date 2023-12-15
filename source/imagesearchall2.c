@@ -87,7 +87,6 @@ unsigned int imagesearchall2(unsigned int * restrict result, unsigned int capaci
             left = 0;
             continue;
         }
-        // 
 
         // Focused Pixel
         unsigned int * color;

@@ -88,7 +88,6 @@ unsigned int imagesearch2(unsigned int * restrict result, unsigned int * start, 
             left = 0;
             continue;
         }
-        // 
 
         // Focused Pixel
         unsigned int * color;
